@@ -1,8 +1,8 @@
 # 🧩 pjs-robot-simulator 🧩
 
-### Take home challenge tasked by dataCamp 
+### 🤖 Take home challenge tasked by dataCamp 🤖
 
-# Coding Test - Simulate a robot
+# 🧑‍💻 Coding Test - Simulate a robot 🦾
 
 Write a program that simulates the movements of a robot. The robot can have three possible movements:
 
