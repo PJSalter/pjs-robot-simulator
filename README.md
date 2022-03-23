@@ -1,4 +1,4 @@
-# pjs-robot-simulator
+# 🧩 pjs-robot-simulator 🧩
 
 ### Take home challenge tasked by dataCamp 
 
@@ -38,4 +38,13 @@ Tests are using Jest. To run them, use the following command:
 
 ```js
 npx jest robot-simulator.spec.js
+
 ```
+
+
+## Screenshots of tests passed ✨
+
+<img width="284" alt="Screenshot 2022-03-23 at 20 59 33" src="https://user-images.githubusercontent.com/45575016/159794861-ad3ef6a3-7754-4b70-9088-2e660419dc0f.png">
+
+
+
