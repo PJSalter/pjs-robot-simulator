@@ -22,7 +22,7 @@ module.exports = class Robot {
     console.log("x",x)
     console.log("y",y)
     console.log("directions",directions)
-    //Using this too see if the direction for the bearing is a clockwise movement or anticlockwise one
+    //Using this too determine whether the direction for the bearing is a clockwise movement or anti-clockwise one
     for (let i = 0; i < directions.length; i++) {
         console.log(directions[i])
         if(i===0){
@@ -39,7 +39,7 @@ module.exports = class Robot {
         }
         console.log("counter update",counter)
 
-        //If count is positive, then it means it is moving clockwise direction
+        //If the counter is totally positive then this will move within a clockwise position.
       //   console.log(counter >=0)
         
         if (counter >= 0) {
@@ -59,7 +59,7 @@ module.exports = class Robot {
             }
         }
 
-        //If count is negative that means the direction is anticlockwise
+        // once the counter goes anti-clockwise.
         if (counter < 0) {
             if (counter % 4 == 0)
                 d = "NORTH";
@@ -92,7 +92,5 @@ module.exports = class Robot {
 
     return `${x} ${y} ${d}`
 }
-
-// console.log(robotSimulator("LLRAA"));
 
 }
