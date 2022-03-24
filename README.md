@@ -4,6 +4,8 @@
 
 # 🧑‍💻 Coding Test - Simulate a robot 🦾
 
+![giphy](https://user-images.githubusercontent.com/45575016/159822331-c4b411cc-cb43-4c17-b006-5dbb7df2ed5f.gif)
+
 Write a program that simulates the movements of a robot. The robot can have three possible movements:
 
     turn right
