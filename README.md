@@ -1,6 +1,6 @@
 # 🧩 pjs-robot-simulator 🧩
 
-### 🤖 Take home challenge tasked by dataCamp 🤖
+### 🤖 Take home challenge 🤖
 
 # 🧑‍💻 Coding Test - Simulate a robot 🦾
 
